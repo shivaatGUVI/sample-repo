@@ -1,0 +1,36 @@
+.body{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.landing{
+  margin: 13% 10%;
+}
+.cardstyle{
+  margin-left: 1% !important;
+  margin-right: 1% !important;
+  margin-top: 2%;
+}
+.cardBackground{
+  background-color: rgba(127, 255, 180, 0.171);
+}
+.steps{
+  height: 100px;
+  overflow: auto;
+  margin: 1%;
+}
+.tips{
+  height: 50px;
+  overflow: auto;
+  margin: 1%;
+}
+.oneline{
+  height: 27px;
+  overflow: auto;
+  margin: 1%;
+}
+
+.bn{
+  padding: 0%;
+  margin: 0%;
+}
